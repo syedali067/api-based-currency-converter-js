@@ -57,7 +57,7 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
 ---
 
 ## 🔗 Live Demo
-👉 https://syedali067.github.io/tic-tac-toe-js/
+👉 https://syedali067.github.io/api-based-currency-converter-js/
 
 ---
 
