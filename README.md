@@ -53,6 +53,12 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
 - Add dark mode 🌙
 - Better UI animations ✨
 
+
+---
+
+## 🔗 Live Demo
+👉 https://syedali067.github.io/tic-tac-toe-js/
+
 ---
 
 ## 👨‍💻 Author
